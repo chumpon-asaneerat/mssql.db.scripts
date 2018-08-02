@@ -1,0 +1,23 @@
+{
+  "name": "mssql.db.scripts",
+  "version": "1.0.0",
+  "description": "mssql database scripts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chumpon Asaneerat",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-debug": "^4.0.0",
+    "gulp-insert": "^0.5.0",
+    "gulp-riot": "^1.1.4",
+    "gulp-sort": "^2.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "jest": "^23.4.2",
+    "riot": "^3.11.1"
+  }
+}
