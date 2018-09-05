@@ -8,7 +8,7 @@ GO
 -- Description:	Get Customer QSets.
 -- [== History ==]
 -- <2018-09-05> :
---  - Add QSetId, QSeq in result query.
+--  - Stored Procedure Created.
 --
 -- [== Example ==]
 --
